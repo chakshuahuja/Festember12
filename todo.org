@@ -12,6 +12,7 @@
 * ferry's wheel
 * mobile site
 * make overlay as absolute and give scroll for the window
+*Janis and Ramya need to develop pacman game!
   
 * Design stuff
 ** change the propeller in the airplane
